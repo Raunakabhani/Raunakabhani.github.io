@@ -652,8 +652,7 @@ body.loaded .overlay_effect:after{
 	height: auto;
 	clear: both;
 	display: flex;
-	align-items: justify;
-	text-align: justify;
+	align-items: center;
 }
 .shane_tm_about .left{
 	width: 50%;
