@@ -24,8 +24,8 @@ svg {
 }
 
 img.svg {
-	width: 15px;
-	height: 15px;
+	width: 20px;
+	height: 20px;
 }
 
 ::-webkit-input-placeholder {
@@ -2595,14 +2595,14 @@ body.modal {
 	height:50vh;
   }
   .Exp_Heading_Font{
-	color: #492baa;
+	color: #372576;
   }
   .Exp_font_color{
-	color: #252424;
+	color: #333333;
   }
   .text {
-	font-size: 20px;
-	padding-left: 20px;
+	font-size: 17px;
+	padding-left: 17px;
   }
   .Exp_Heading{
 	font-weight: 600;
@@ -2624,8 +2624,8 @@ body.modal {
   }
 
   .text-2 {
-	font-size: 20px;
-	padding-right: 20px;
+	font-size: 17px;
+	padding-right: 17px;
   }
 
   .Achi_Category{
@@ -2672,6 +2672,6 @@ body.modal {
   }
 
   .achieve_text-2{
-	font-size: 20px;
+	font-size: 17px;
 	padding-right: 150px;
   }
