@@ -2644,7 +2644,14 @@ body.modal {
 	width: 30vw;
 	height:50vh;
   }
-
+  .Achie_image_gaurav img {
+	width: 35vw;
+	height:50vh;
+  }
+  .Achie_image_robofest3 img {
+	width: 20vw;
+	height:60vh;
+  }
   .Achie_container{
 	display: flex;
 	align-items: flex-start !important;
