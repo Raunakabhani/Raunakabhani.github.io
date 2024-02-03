@@ -800,7 +800,7 @@ body.loaded .overlay_effect:after {
 	height: auto;
 	clear: both;
 	float: left;
-	padding: 150px 0px;
+	padding: 150px 0px 0px;
 }
 
 .shane_tm_about .about_inner {
@@ -808,7 +808,7 @@ body.loaded .overlay_effect:after {
 	height: auto;
 	clear: both;
 	display: flex;
-	align-items: center;
+	align-items: flex-start;
 }
 
 .shane_tm_about .left {
@@ -965,8 +965,8 @@ body.loaded .overlay_effect:after {
 	clear: both;
 	float: left;
 	background-color: #f9f9f9;
-	padding: 80px 0;
-	margin-bottom: 138px;
+	padding: 80px 0px 0px;
+	/* margin-bottom: 138px; */
 }
 
 .shane_tm_portfolio .portfolio_list {
@@ -2556,3 +2556,91 @@ body.modal {
 		width: 100%;
 	}
 }
+
+.exp_container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	align-items: flex-start;
+	margin-bottom: 50px;
+  }
+  
+  .Exp_image img {
+	width: 90vw;
+	height:50vh;
+  }
+  
+  .Exp_Heading_Font{
+	color: #3A00FF;
+  }
+  .Exp_font_color{
+	color: #000;
+  }
+  .text {
+	font-size: 20px;
+	padding-left: 20px;
+  }
+  .Exp_Heading{
+	font-weight: 600;
+	font-size: larger;
+  }
+  .Exp_Company{
+	font-weight: bolder;
+	font-size: large;
+  }
+  .Exp_Skills{
+	font-weight: bolder;
+	font-size:large;
+  }
+  .Exp_Date	{
+	font-style: italic;
+  }
+  .Exp_Desc{
+	text-align: justify;
+  }
+
+  .text-2 {
+	font-size: 20px;
+	padding-right: 20px;
+  }
+
+  .Achi_Category{
+	font-style: italic;
+	font-weight: bold;
+  }
+  .achievements_points{
+	display: flex;
+	flex-direction: column;
+  }
+  .achievements_points ul{
+	list-style-type: disc !important;
+  }
+
+  .Achie_image img {
+	width: 30vw;
+	height:50vh;
+  }
+
+  .Achie_container{
+	display: flex;
+	align-items: flex-start !important;
+	justify-content: flex-start;
+	align-items: flex-start;
+	margin-bottom: 50px;
+  }
+  .Achie_container_2{
+	display: flex;
+	align-items: flex-start !important;
+	justify-content: flex-start;
+	align-items: flex-start;
+	margin-bottom: 50px;
+  }
+
+  .Achi_Desc{
+	font-size: medium;
+  }
+
+  .achieve_text-2{
+	font-size: 20px;
+	padding-right: 150px;
+  }
