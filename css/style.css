@@ -2565,16 +2565,40 @@ body.modal {
 	margin-bottom: 50px;
   }
   
+  .Exp_image_RBL img {
+	width: 120vw;
+	height:70vh;
+  }
+  .Exp_image_guvi img {
+	width: 220vw;
+	height:50vh;
+	
+  }
+  .Exp_image_isro img {
+	width:70vw;
+	height:35vh;
+  }
+  .Exp_image_MAHITEX img {
+	width:60vw;
+	height:35vh;
+  }
+  .Exp_image_robochamps img {
+	width:30vw;
+	height:30vh;
+  }
+  .Exp_image_IIT img {
+	width:50vw;
+	height:30vh;
+  }
   .Exp_image img {
 	width: 90vw;
 	height:50vh;
   }
-  
   .Exp_Heading_Font{
-	color: #3A00FF;
+	color: #492baa;
   }
   .Exp_font_color{
-	color: #000;
+	color: #252424;
   }
   .text {
 	font-size: 20px;
