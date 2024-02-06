@@ -130,6 +130,7 @@ h6 {
   height: auto;
   clear: both;
   float: left;
+  margin-bottom: 60px;
 }
 
 #preloader {
@@ -914,6 +915,7 @@ body.loaded .overlay_effect:after {
   padding: 13px 48px;
   border: 2px solid #000;
   font-family: "Poppins";
+  margin-top: 10px;
 
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
